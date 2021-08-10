@@ -62,5 +62,3 @@ https://github.com/AHA-Taiwan/2019-Taitung-BNES-Reading-Boat/tree/master/002.%20
 
 > #### 歡迎參與專案開發，Branch合併可向專案管理者提出請求
 # 2020_Taitung_PuyumaYouthBaseballBullpen
-# 2020_Taitung_PuyumaYouthBaseballBullpen
-# 2020_Taitung_PuyumaYouthBaseballBullpen
