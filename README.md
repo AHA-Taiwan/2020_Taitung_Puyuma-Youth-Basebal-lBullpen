@@ -8,9 +8,9 @@
 台灣東南地區，北回歸線以南，有焚風、颱風、東北季風，海風具高度鹽分，設計時需注意材料防潮防蝕保護。<br/>
 * 基地環境氣象資料：https://www.cwb.gov.tw/V8/C/W/County/County.html?CID=10014 <br/>
 * 氣象觀測歷史紀錄：https://e-service.cwb.gov.tw/HistoryDataQuery/DayDataController.do?command=viewMain&station=467660&stname=%25E8%2587%25BA%25E6%259D%25B1&datepicker=2021-07-19 <br/>
-* Google Map 位置：https://goo.gl/maps/Q4HmF7Ct91mYNcTV6  <br/>
+* Google Map 位置：https://goo.gl/maps/4CSL8ehEizMw4Z4f6  <br/>
 
-![image](https://github.com/linghsuanh/2021_Taitung_Balan-Site/blob/master/001.%20Blueprint/README%20IMAGE/BS_GMap.png)
+![image](https://github.com/linghsuanh/2020_Taitung_PuyumaYouthBaseballBullpen/blob/master/001.%20Blueprint/README%20IMAGE/PYB_GMap.png)
 ***
 ## 專案介紹：<br/>
 * 主要建材：台灣杉 [14.4 x 3 x 360cm]、[14.4 x 4.2 x 360cm]和[9.6 x 4.2 x 360cm] 尺寸。
