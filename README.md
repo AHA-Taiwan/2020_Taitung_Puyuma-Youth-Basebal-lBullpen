@@ -10,7 +10,7 @@
 * 氣象觀測歷史紀錄：https://e-service.cwb.gov.tw/HistoryDataQuery/DayDataController.do?command=viewMain&station=467660&stname=%25E8%2587%25BA%25E6%259D%25B1&datepicker=2021-07-19 <br/>
 * Google Map 位置：https://goo.gl/maps/4CSL8ehEizMw4Z4f6  <br/>
 
-![image](https://github.com/linghsuanh/2020_Taitung_PuyumaYouthBaseballBullpen/blob/master/001.%20Blueprint/README%20IMAGE/PYB_SketchLab_Model/PYB_GMap.png)
+![image](https://github.com/linghsuanh/2020_Taitung_PuyumaYouthBaseballBullpen/blob/master/001.%20Blueprint/README%20IMAGE%20(Sketchlab%20%2B%20GMap)/PYB_GMap.png)
 ***
 ## 專案介紹：<br/>
 * 主要建材：台灣杉 [14.4 x 3 x 360cm]、[14.4 x 4.2 x 360cm]和[9.6 x 4.2 x 360cm] 尺寸。
@@ -21,13 +21,13 @@
 捕手位置 Catcher's Position
 <br/>
 <br/>
-![image](https://github.com/linghsuanh/2020_Taitung_PuyumaYouthBaseballBullpen/blob/master/001.%20Blueprint/README%20IMAGE/PYB_SketchLab_Model/PYB_Catcher_s%20Position.png)
+![image](https://github.com/linghsuanh/2020_Taitung_PuyumaYouthBaseballBullpen/blob/master/001.%20Blueprint/README%20IMAGE%20(Sketchlab%20%2B%20GMap)/Sketchlab%20Models/PYB_Catcher_s%20Position.png)
 <br/>
 <br/>
 投手位置 Pitcher's Position
 <br/>
 <br/>
-![image](https://github.com/linghsuanh/2020_Taitung_PuyumaYouthBaseballBullpen/blob/master/001.%20Blueprint/README%20IMAGE/PYB_SketchLab_Model/PYB_Pitcher_s%20Position.png)
+![image](https://github.com/linghsuanh/2020_Taitung_PuyumaYouthBaseballBullpen/blob/master/001.%20Blueprint/README%20IMAGE%20(Sketchlab%20%2B%20GMap)/Sketchlab%20Models/PYB_Pitcher_s%20Position.png)
 <br/>
 <br/>
 捕手區施工步驟（Construction Process of the Catcher's Position）<br/>
