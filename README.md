@@ -30,12 +30,12 @@
 ![image](https://github.com/linghsuanh/2020_Taitung_PuyumaYouthBaseballBullpen/blob/master/001.%20Blueprint/README%20IMAGE/PYB_SketchLab_Model/PYB_Pitcher_s%20Position.png)
 <br/>
 <br/>
-捕手區施工步驟＿結構（Construction Process of the Catcher's Position）<br/>
+捕手區施工步驟（Construction Process of the Catcher's Position）<br/>
 <br/>
 ![image](https://github.com/linghsuanh/2020_Taitung_PuyumaYouthBaseballBullpen/blob/master/002.%20Handbook/Constr-Process%20Steps%20(.gif)/PYB_Catcher_s%20Position.gif)
 <br/>
 <br/>
-投手區施工步驟＿結構（Construction Process of the Pitcher's Position）<br/>
+投手區施工步驟（Construction Process of the Pitcher's Position）<br/>
 <br/>
 ![image](https://github.com/linghsuanh/2020_Taitung_PuyumaYouthBaseballBullpen/blob/master/002.%20Handbook/Constr-Process%20Steps%20(.gif)/PYB_Pitcher_s%20Position.gif)
 <br/>
