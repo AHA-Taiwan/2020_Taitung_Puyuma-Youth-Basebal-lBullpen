@@ -30,14 +30,14 @@
 ![image](https://github.com/linghsuanh/2020_Taitung_PuyumaYouthBaseballBullpen/blob/master/001.%20Blueprint/README%20IMAGE/PYB_SketchLab_Model/PYB_Pitcher_s%20Position.png)
 <br/>
 <br/>
-施工步驟＿基礎（Construction Process_Foundation）<br/>
+捕手區施工步驟＿結構（Construction Process of the Catcher's Position）<br/>
 <br/>
-![image](https://github.com/linghsuanh/2021_Taitung_Balan-Site/blob/master/002.%20Handbook/Constr-Step%20(.gif)/BS_Base.gif)
+![image](https://github.com/linghsuanh/2020_Taitung_PuyumaYouthBaseballBullpen/blob/master/002.%20Handbook/Constr-Process%20Steps%20(.gif)/PYB_Catcher_s%20Position.gif)
 <br/>
 <br/>
-施工步驟＿樑柱結構（Construction Process_Structure）<br/>
+投手區施工步驟＿結構（Construction Process of the Pitcher's Position）<br/>
 <br/>
-![image](https://github.com/linghsuanh/2021_Taitung_Balan-Site/blob/master/002.%20Handbook/Constr-Step%20(.gif)/BS_Structure.gif)
+![image](https://github.com/linghsuanh/2020_Taitung_PuyumaYouthBaseballBullpen/blob/master/002.%20Handbook/Constr-Process%20Steps%20(.gif)/PYB_Pitcher_s%20Position.gif)
 <br/>
 <br/>
 ***
