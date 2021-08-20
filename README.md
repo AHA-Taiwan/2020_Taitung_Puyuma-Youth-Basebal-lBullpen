@@ -7,7 +7,8 @@
 ## 基地環境：<br/>
 台灣東南地區，北回歸線以南，有焚風、颱風、東北季風，海風具高度鹽分，設計時需注意材料防潮防蝕保護。<br/>
 * 基地環境氣象資料：https://www.cwb.gov.tw/V8/C/W/County/County.html?CID=10014 <br/>
-* 氣象觀測歷史紀錄：https://e-service.cwb.gov.tw/HistoryDataQuery/DayDataController.do?command=viewMain&station=467660&stname=%25E8%2587%25BA%25E6%259D%25B1&datepicker=2021-07-19 <br/>
+* 氣象觀測歷史紀錄：<br/>
+  https://e-service.cwb.gov.tw/HistoryDataQuery/DayDataController.do?command=viewMain&station=467660&stname=%25E8%2587%25BA%25E6%259D%25B1&datepicker=2021-07-19 <br/>
 
 * 台東縣氣候月平均氣溫、月平均降雨量、風速與相對濕度數據圖表<br/>
  （取自交通部中央氣象局，統計期間為 1991-2020 年）<br/>
@@ -20,7 +21,7 @@
 ***
 ## 專案介紹：<br/>
 * 主要建材：台灣杉 [ 14.4 x 3 x 360 cm ]、[ 14.4 x 4.2 x 360 cm ] 和 [ 9.6 x 4.2 x 360 cm ] 尺寸。
-* 數位模型［整體木構3D］：
+* 數位模型［ 整體木構3 D］：
 * 捕手位置 Catcher's Position: https://skfb.ly/ooMID
 * 投手位置 Pitcher's Position: https://skfb.ly/ooMI8
 
