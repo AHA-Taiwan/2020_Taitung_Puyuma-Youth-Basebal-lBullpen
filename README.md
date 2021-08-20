@@ -15,6 +15,12 @@
 
 ![image](https://github.com/AHA-Taiwan/2020_Taitung_Balan-Site/blob/master/001.%20Blueprint/README%20IMAGE/Taitung_Weather_All.jpg)
 
+* 颱風與焚風（圖取自交通部中央氣象局）<br/>
+  左為：中央氣象局歸納颱風可能侵襲台灣之十條路徑圖；<br/>
+  右為：1991 至 2011 年間颱風侵襲台灣之個路徑次數（分母）在台東地區引發焚風之次數（分子）<br/>
+
+![image](https://github.com/AHA-Taiwan/2020_Taitung_Balan-Site/blob/master/001.%20Blueprint/README%20IMAGE/Taitung_Typhoon%2BWind.png)
+
 * Google Map 位置：https://goo.gl/maps/4CSL8ehEizMw4Z4f6  <br/>
 
 ![image](https://github.com/linghsuanh/2020_Taitung_PuyumaYouthBaseballBullpen/blob/master/001.%20Blueprint/README%20IMAGE%20(Sketchlab%20%2B%20GMap)/PYB_GMap.png)
