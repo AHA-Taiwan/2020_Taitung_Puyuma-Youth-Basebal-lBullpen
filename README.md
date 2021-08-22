@@ -26,7 +26,6 @@
 捕手位置 Catcher's Position<br/>
 Digital Model Link: https://skfb.ly/ooMID<br/> 
 <br/>
-<br/>
 ![image](https://github.com/linghsuanh/2020_Taitung_PuyumaYouthBaseballBullpen/blob/master/001.%20Blueprint/README%20IMAGE%20(Sketchlab%20%2B%20GMap)/Sketchlab%20Models/PYB_Catcher_s%20Position.png)
 <br/>
 <br/>
