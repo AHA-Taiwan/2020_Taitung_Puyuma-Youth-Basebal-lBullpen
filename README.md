@@ -22,10 +22,11 @@
 ## 專案介紹：<br/>
 * 主要建材：台灣杉 [ 14.4 x 3 x 360 cm ]、[ 14.4 x 4.2 x 360 cm ] 和 [ 9.6 x 4.2 x 360 cm ] 尺寸。
 * 數位模型［ 整體木構 3D ］：
-* 捕手位置 Catcher's Position: https://skfb.ly/ooMID
+
 * 投手位置 Pitcher's Position: https://skfb.ly/ooMI8
 
 捕手位置 Catcher's Position
+Digital Model Link: https://skfb.ly/ooMID 
 <br/>
 <br/>
 ![image](https://github.com/linghsuanh/2020_Taitung_PuyumaYouthBaseballBullpen/blob/master/001.%20Blueprint/README%20IMAGE%20(Sketchlab%20%2B%20GMap)/Sketchlab%20Models/PYB_Catcher_s%20Position.png)
