@@ -4,4 +4,5 @@ Constr-Process Handbook (pdf+ppt)--施工手冊與簡報<br/>
 Constr-Process Sheet (.doc)--工項工序表<br/>
 Constr-Processs Steps (.gif)--動態組裝圖<br/>
 <br/>
-Construction Method (photos)--施工工法, Link: https://drive.google.com/drive/folders/1FZwmxR8_8e2cyzcdbKTD-9hDnzFZ1XvT?usp=sharing<br/>
+Construction Method (photos)--施工工法<br/>
+Link: https://drive.google.com/drive/folders/1FZwmxR8_8e2cyzcdbKTD-9hDnzFZ1XvT?usp=sharing<br/>
