@@ -15,7 +15,7 @@
 
 ![image](https://github.com/AHA-Taiwan/2020_Taitung_Balan-Site/blob/master/001.%20Blueprint/README%20IMAGE/Taitung%20Weather%20All.jpg)
 
-* Google Map 位置：https://goo.gl/maps/4CSL8ehEizMw4Z4f6  <br/>
+* Google Map 位置：https://goo.gl/maps/4CSL8ehEizMw4Z4f6<br/>
 
 ![image](https://github.com/linghsuanh/2020_Taitung_PuyumaYouthBaseballBullpen/blob/master/001.%20Blueprint/README%20IMAGE%20(Sketchlab%20%2B%20GMap)/PYB_GMap.png)
 ***
@@ -23,8 +23,8 @@
 * 主要建材：台灣杉 [ 14.4 x 3 x 360 cm ]、[ 14.4 x 4.2 x 360 cm ] 和 [ 9.6 x 4.2 x 360 cm ] 尺寸。
 * 數位模型［ 整體木構 3D ］：
 <br/>
-捕手位置 Catcher's Position: https://skfb.ly/ooMID
-投手位置 Pitcher's Position: https://skfb.ly/ooMI8
+* 捕手位置 Catcher's Position: https://skfb.ly/ooMID
+* 投手位置 Pitcher's Position: https://skfb.ly/ooMI8
 
 捕手位置 Catcher's Position
 <br/>
